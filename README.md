@@ -1,1 +1,0 @@
-# grau-curriculo .dev
